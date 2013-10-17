@@ -53,5 +53,9 @@ function check_url(){
 	$page = get_page_name();
 	echo $page;
 	}
+	
+function test(){
+
+}
 #PS ?>
 
