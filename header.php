@@ -152,11 +152,11 @@
 						<h4>Include</h4>
 						<p>
 						<input type="checkbox" name="mls-listed-homes"  value="mls-listed-homes" id="mls-listed-homes"/>
-						<label>MLS-listed homes</label>
+						<label>Vacation Rentals</label>
 						</p>
 						<p>
 						<input type="checkbox" name="mls-listed-foreclosures"  value="mls-listed-foreclosures" id="mls-listed-foreclosures"/>
-						<label>MLS-listed foreclosures</label>
+						<label>Film Shoot Rentals</label>
 						</p>
 						<p>
 						<input type="checkbox" name="For-sale-by-ownerhomes" value="For-sale-by-ownerhomes" id="For-sale-by-ownerhomes"/>
